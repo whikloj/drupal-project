@@ -17,15 +17,11 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/dannylamb/claw-jsonld"
+            "url": "https://github.com/Islandora-CLAW/islandora"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/dannylamb/islandora"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/dannylamb/islandora_collection"
+            "url": "https://github.com/Islandora-CLAW/islandora_collection"
         }
     ],
     "require": {
@@ -41,7 +37,7 @@
         "drupal/media_entity": "^1.6",
         "drupal/media_entity_image": "^1.2",
         "drupal/bootstrap": "^3.1",
-        "drupal/islandora": "dev-composer",
+        "drupal/islandora": "dev-8.x-1.x",
         "drupal/islandora_collection": "dev-master"
     },
     "require-dev": {

@@ -22,6 +22,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/Islandora-CLAW/islandora_collection"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Islandora-CLAW/claw-jsonld"
         }
     ],
     "require": {

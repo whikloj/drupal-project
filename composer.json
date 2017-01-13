@@ -27,7 +27,7 @@
             "type": "package",
             "package": {
                 "name": "islandora/claw-jsonld",
-                "version": "8.x-1.x",
+                "version": "8.1.x-1.x",
                 "type": "package",
                 "source": {
                     "url": "https://github.com/Islandora-CLAW/claw-jsonld.git",

@@ -30,7 +30,7 @@
                 "version": "8.x-1.x",
                 "type": "package",
                 "source": {
-                    "url": "git@github.com/islandora-claw/claw-jsonld.git",
+                    "url": "https://github.com/Islandora-CLAW/claw-jsonld.git",
                     "type": "git",
                     "reference": "8.x-1.x"
                 }

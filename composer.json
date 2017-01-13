@@ -24,8 +24,17 @@
             "url": "https://github.com/Islandora-CLAW/islandora_collection"
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/Islandora-CLAW/claw-jsonld"
+            "type": "package",
+            "package": {
+                "name": "islandora/claw-jsonld",
+                "version": "8.x-1.x",
+                "type": "package",
+                "source": {
+                    "url": "git@github.com/islandora-claw/claw-jsonld.git",
+                    "type": "git",
+                    "reference": "8.x-1.x"
+                }
+            }
         }
     ],
     "require": {
